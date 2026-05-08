@@ -187,7 +187,3 @@ skills/workflow-skill-reviewer/
 | v1.3 | 2026-05-05 | **关键修复**：恢复严格"一层深"规则；增加 `--suite` 套件模式；增加 AP-21/22/23 |
 | v1.4 | 2026-05-05 | 增加 Flow Skill 验证（Mermaid/D2、BEGIN/END）；ASI-friendly description 检查；韧性机制检测；凭证隔离检查；增加 AP-24/25/26/27 |
 
----
-
-**维护部门**：研究发展部  
-**维护人**：研究员（ZLJf3i-R01）
